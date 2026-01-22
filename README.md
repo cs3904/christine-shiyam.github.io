@@ -4,9 +4,11 @@
 |
 <a href="./pages/work_experience.md">Work Experience</a>
 
-# Christine Shiyam
+<h1>Christine Shiyam</h1>
 
-I'm a software engineer with extensive experience in design and requirements development. Check out my latest work experience <link href="/pages/work_experience.md" style="link"><u>here</u></link>.
+I'm a software engineer with extensive experience in design and requirements development. Check out my latest work experience <a href="./pages/work_experience.md"></a><u>here</u></a>.
+
+<!-- <h1>Under Construction!</h1> -->
 
 <!-- <address>
   <a href="mailto:christineshiyam@gmail.com">christineshiyam@gmail.com</a><br />

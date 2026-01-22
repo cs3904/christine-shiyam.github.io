@@ -1,0 +1,89 @@
+<button link="./../index.md">Home</button>
+<button link="../projects.md">Projects</button>
+<button link="../work_experience.md">Work Experience</button>
+
+# Work Experience
+
+  <tr>
+    <td width="80%">
+      <b>Technical Support Representative</b> | July 2025 - Present
+      <br /><i>Spectrum Mobile</i> | Amherst, NY<br />
+      <ul>
+        <li>Assist 20-30 customers per day with the activation and/or restoration of mobile cellular service</li>
+        <li>Construct troubleshooting trees for standardizing processes by consulting subject matter experts and the company knowledgebase</li>
+        <li>Compile a directory of self-service articles for customer reference</li>
+        <li>Update team SharePoint site with new tool updates, call topic trends, and upcoming workplace events</li>
+      </ul>
+    </td>
+  </tr>
+<hr>
+  <tr>
+    <td width="80%">
+      <b>Campus Living IT Student Assistant</b> | October 2024 - February 2025
+      <br /><i>University at Buffalo Campus Living</i> | Buffalo, NY<br />
+      <ul>
+        <li>Provided technical support to Campus Living staff, troubleshooting hardware and software issues</li>
+        <li>Maintained accurate documentation of all support requests, updates, and resolutions in ticketing system</li>
+        <li>Update status of Campus Living assets as necessary and create records for procured equipment</li>
+      </ul>
+    </td>
+  </tr>
+<hr>
+  <tr>
+    <td width="80%">
+      <b>Systems Engineering Intern</b> | June 2024 - August 2024
+      <br /><i>Northrop Grumman Mission Systems</i> | Linthicum, MD<br />
+      <b>Project:</b> Process Model Changeboard Application
+      <ul>
+        <li>Design and develop a Microsoft Power application that allows users to submit process diagram packages for
+review</li>
+        <li>Interview subject-matter experts to develop a standardized review process</li>
+        <li>Present development progress to stakeholders at weekly meetings</li>
+      </ul>
+        <b>Project:</b> Transformation Engagement Team Webpage Update
+      <ul>
+        <li>Redesign and develop the Northrop Grumman Transformation Engagement webpage using the React framework</li>
+        <li>Interview product owners and team members to determine what adjustments to make to the webpage</li>
+        <li>Present mockups and design progress to stakeholders at weekly meetings</li>
+      </ul>
+    </td>
+  </tr>
+<hr>
+  <tr>
+    <td width="80%">
+      <b>Engineering Intern</b> | June 2023 - August 2023
+      <br /><i>Moog Inc.</i> | East Aurora, NY<br />
+      <ul>
+        <li>Revised 30 pages of circuit card assembly training documents to ensure knowledge retention</li>
+        <li>Automated five FPGA module test benches using Python scripts to parse large sets of possible inputs</li>
+        <li>Automated block diagram generation of 10 FPGA modules using Python scripting</li>
+      </ul>
+    </td>
+  </tr>
+<hr>
+  <tr>
+    <td width="80%">
+      <b>Introduction to Computer Science II Teaching Assistant</b> | January 2023 – May 2024
+      <br /><i>University at Buffalo, Department of Computer Science and Engineering</i> | Buffalo, NY<br />
+      <ul>
+        <li>Reinforce students’ understanding of object-oriented programming, polymorphism, inheritance, and data structures in Java</li>
+        <li>Supervise three sections of approximately 30 students per week in a computer lab</li>
+        <li>Hold two office hours per week to provide students with additional aid</li>
+      </ul>
+    </td>
+  </tr>
+<hr>
+  <tr>
+    <td width="80%">
+      <b>Introduction to Computer Science I Teaching Assistant</b> | August 2022 – December 2022
+      <br /><i>University at Buffalo, Department of Computer Science and Engineering</i> | Buffalo, NY<br />
+      <ul>
+        <li>Reinforced students’ understanding of variables, functions, data types, data storage, control flow, and sorting in Python and JavaScript</li>
+        <li>Supervised two sections of approximately 30 students in computer lab</li>
+        <li>Held three office hours per week to provide students with additional aid</li>
+      </ul>
+    </td>
+  </tr>
+
+
+  

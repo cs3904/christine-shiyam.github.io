@@ -1,6 +1,8 @@
-<button link="./index.md">Home</button>
-<button link="./pages/projects.md">Projects</button>
-<button link="./pages./work_experience.md">Work Experience</button>
+<a href="./README.md">Home</a>
+|
+<a href="./pages/projects.md">Projects</a>
+|
+<a href="./pages/work_experience.md">Work Experience</a>
 
 # Christine Shiyam
 
